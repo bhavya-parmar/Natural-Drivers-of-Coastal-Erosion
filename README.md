@@ -1,4 +1,4 @@
-# Natural Drivers of Coastal Erosion — ES612 Project
+# Natural Drivers of Coastal Erosion
 ---
 
 ## Overview
